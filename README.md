@@ -50,13 +50,24 @@ The site presents a narrative through videos, images, and 3D models, showcasing 
 
 ## ▶️ Demo
 
-A demo video will be added soon to showcase the full functionality of the website.  
+Showcase the full functionality of the website.  
+[Watch Demo on YouTube](https://youtu.be/ZVNuWCPcq-c)
 
 ---
 
 ## 📸 Screenshots
 
-_Add screenshots of the Home page, History section, 3D models, and Contact form here._  
+### 🏠 Home Page
+![Home Screenshot](https://static.wixstatic.com/media/c15b34_e058d8d2483d4268b1272f42af59f9b5~mv2.png/v1/fit/w_1640,h_1080,q_90,enc_avif,quality_auto/c15b34_e058d8d2483d4268b1272f42af59f9b5~mv2.png)
+
+### 📜 History Section
+![History Screenshot](https://static.wixstatic.com/media/c15b34_261b0802785a4c00835da73a798f5e5e~mv2.png/v1/fit/w_1640,h_1080,q_90,enc_avif,quality_auto/c15b34_261b0802785a4c00835da73a798f5e5e~mv2.png)
+
+### 🖼️ 3D Models
+![3D Screenshot](https://static.wixstatic.com/media/c15b34_6de7b08d05eb4d62a8dfdba1ed1019db~mv2.png/v1/fit/w_1640,h_1080,q_90,enc_avif,quality_auto/c15b34_6de7b08d05eb4d62a8dfdba1ed1019db~mv2.png)
+
+### 📬 Contact Form
+![Contact Screenshot](https://static.wixstatic.com/media/c15b34_2df8c6cf5e9e468688970fde8115c3cc~mv2.png/v1/fit/w_1640,h_1080,q_90,enc_avif,quality_auto/c15b34_2df8c6cf5e9e468688970fde8115c3cc~mv2.png)
 
 ---
 
@@ -65,5 +76,3 @@ _Add screenshots of the Home page, History section, 3D models, and Contact form 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/los-otros-ojos.git
-
-
